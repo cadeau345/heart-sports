@@ -24,7 +24,7 @@ Department: Physical Education
 
 <p>
 
-South Valley University
+QENA University
 
 </p>
 
