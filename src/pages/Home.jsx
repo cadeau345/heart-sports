@@ -42,7 +42,7 @@ Under supervision of: Dr. Esraa El-Baghdadi
 
 <p className="mt-2 text-gray-600">
 
-South Valley University
+QENA University
 
 </p>
 
