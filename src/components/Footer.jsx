@@ -12,7 +12,8 @@ Heart & Diabetes Awareness System
 
 <p className="mt-2">
 
-Prepared by: Mahmoud Nasser
+Prepared by: Mahmoud Nasser&
+Zakaria Abdelrahman
 
 </p>
 
